@@ -7,7 +7,7 @@ Top views on customer value and churnts;
 Details of orders support different level of filters;
 
 The combinaiton of Action filters, Parameters, Dimention Filters,  Hierarchies and Use Dynamic Zone Visibility provide sophiscated interactions between the audiance and the dashboard to view and understand the business at different level of details. 
-
+ 
 Complexed LOD expressions are heavily used in Customer LTV and Churn analysis.
 
 About the Author:
