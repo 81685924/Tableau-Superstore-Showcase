@@ -1,7 +1,8 @@
 # Tableau-Superstore-Showcase
 This is a showcase dashbaord built on famous superstore dataset.
 
-The dashboard consistes 3 pages and tell a story by using a top-down view:
+-----------------------------------------------------------------
+# The dashboard consistes 3 pages and tell a story by using a top-down view:
 Top views on sales;
 Top views on customer value and churnts;
 Details of orders support different level of filters;
