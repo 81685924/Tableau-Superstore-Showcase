@@ -30,6 +30,9 @@ This dashboard leverages the latest Tableau Superstore sample dataset (2020–20
 - Return table
 
 **Dashboard link:**  https://public.tableau.com/app/profile/charles.wang6860/viz/SuperstoreShowcase/Sales
+![](https://github.com/81685924/Tableau-Superstore-Showcase/blob/main/Pic/Sales.png)
+![](https://github.com/81685924/Tableau-Superstore-Showcase/blob/main/Pic/Customers.png)
+![](https://github.com/81685924/Tableau-Superstore-Showcase/blob/main/Pic/Orders.png)
 
 ## About the Author
 Charles Wang is a data-driven Business Intelligence and Data Engineering professional with over 8 years of experience in SQL development, data modeling, and BI solution design. He specializes in building interactive dashboards and scalable data platforms using Tableau, Power BI, and cloud-native technologies. Charles is known for his ability to lead cross-functional teams and deliver insights that drive business transformation.
