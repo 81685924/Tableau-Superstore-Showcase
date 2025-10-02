@@ -1,4 +1,4 @@
-# Tableau Superstore Showcase – Sales Dashboard
+# Tableau Superstore Showcase Dashboard
 ## Executive Summary
 The Superstore Showcase – Sales Dashboard is a centralized analytics hub designed for retail decision-makers—including sales managers, category leads, regional directors, and operations heads—who seek to understand the key drivers of revenue, profit, and customer behavior across the Superstore’s operations. It transforms transactional data into strategic insights, supporting both tactical actions and long-term planning.
 
